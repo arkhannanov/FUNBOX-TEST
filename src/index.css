@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 50px;
+  background-color: #66CCFF;
+  font-family: sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+}
