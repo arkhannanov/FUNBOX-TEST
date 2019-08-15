@@ -1,0 +1,28 @@
+.list {
+  list-style: none;
+  padding-left: 0;
+  width: 14.5rem;
+
+  &__item {
+    color: #333;
+    background-color: rgba(255, 255, 255, .5);
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 0.5rem;
+    list-style: none;
+    transition: background-color .2s ease-out;
+    position: relative;
+
+    &:hover {
+      background-color: pink;
+      cursor: pointer;
+    }
+
+    &-image {
+      position: absolute;
+      right: 0.5rem;
+      top: 0.75rem;
+    }
+  }
+
+}
