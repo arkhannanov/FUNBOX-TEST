@@ -32,9 +32,9 @@
         <entry file="file://$PROJECT_DIR$/src/redux/map-reducer.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="245">
-              <caret line="81" column="57" selection-start-line="81" selection-start-column="57" selection-end-line="81" selection-end-column="57" />
+              <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="57" />
               <folding>
-                <marker date="1566119865928" expanded="true" signature="2676:2725" ph="..." />
+                <marker date="1566122259057" expanded="true" signature="2676:2725" ph="..." />
               </folding>
             </state>
           </provider>
@@ -262,7 +262,7 @@
       <workItem from="1565717556801" duration="8667000" />
       <workItem from="1565756858336" duration="37841000" />
       <workItem from="1565856230598" duration="44265000" />
-      <workItem from="1566119290938" duration="571000" />
+      <workItem from="1566119290938" duration="2185000" />
     </task>
     <task id="LOCAL-00001" summary="Выполнен первый блок">
       <created>1565639618825</created>
@@ -299,11 +299,25 @@
       <option name="project" value="LOCAL" />
       <updated>1565904811673</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Финал">
+      <created>1566119919869</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1566119919870</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Финал">
+      <created>1566121150373</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1566121150373</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115686000" />
+    <option name="totallyTimeSpent" value="117300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -321,8 +335,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.27410617" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.27410617" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -461,9 +475,9 @@
     <entry file="file://$PROJECT_DIR$/src/redux/map-reducer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
-          <caret line="81" column="57" selection-start-line="81" selection-start-column="57" selection-end-line="81" selection-end-column="57" />
+          <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="57" />
           <folding>
-            <marker date="1566119865928" expanded="true" signature="2676:2725" ph="..." />
+            <marker date="1566122259057" expanded="true" signature="2676:2725" ph="..." />
           </folding>
         </state>
       </provider>

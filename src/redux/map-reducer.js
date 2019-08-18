@@ -78,8 +78,8 @@ const mapReducer = (state = initialState, action) => {
       };
     case CALCULATE_COORDINATES:
       let actionKey = action.key;
-      let coordinates = action.coordinates;
-      // let coordinates = {lat: 55.751244, lng: 37.618423};
+      // let coordinates = action.coordinates;
+      let coordinates = {lat: 55.751244, lng: 37.618423};
 
       return {
         ...state,
