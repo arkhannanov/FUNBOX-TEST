@@ -78,7 +78,9 @@ const mapReducer = (state = initialState, action) => {
       };
     case CALCULATE_COORDINATES:
       let actionKey = action.key;
-      let coordinates = action.coordinates;
+      // let coordinates = action.coordinates;
+      let coordinates = {lat: 55.751244, lng: 37.618423};
+
       return {
         ...state,
         correspondCoordinates: [...state.correspondCoordinates, {
@@ -90,6 +92,7 @@ const mapReducer = (state = initialState, action) => {
       let searchKey = action.key;
       let lat = action.lat;
       let lng = action.lng;
+
 
       let coordinatesIndex = state.items.findIndex(el => el.key === searchKey);
       let markerNewCoordinates = [];
@@ -107,6 +110,7 @@ const mapReducer = (state = initialState, action) => {
         markerNewCoordinates[i] = state.correspondCoordinates[i];
       }
 
+      console.log(markerNewCoordinates);
       return {
         ...state,
         correspondCoordinates: markerNewCoordinates
